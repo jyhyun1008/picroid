@@ -1,4 +1,4 @@
-# PICREW
+# PICROID
 
 ![](./thumb.png)
 
